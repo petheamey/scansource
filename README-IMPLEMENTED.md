@@ -6,8 +6,7 @@ I have built the React-Typescript Set Up using npx create-react-app --template t
 2. In console go to root folder.
 3. Run 'npm install'.
 4. Solution is in build folder.
-5. To create new solution.
-a. From root folder run following commands one after the another:\
+5. To create new solution, from root folder run following commands one after the another:\
 i. 'npm run build'.\
 ii. 'install -g serve'.\
 iii. 'serve -s build'.
