@@ -10,7 +10,7 @@ I have built the React-Typescript Set Up using npx create-react-app --template t
 a. From root folder run following commands one after the another:\
 i. 'npm run build'.\
 ii. 'install -g serve'.\
-iii. 'serve -s build'.\
+iii. 'serve -s build'.
 
 # Solution Implementation
 ## Bidirectional Communication using OOP
