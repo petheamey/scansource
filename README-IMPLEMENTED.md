@@ -2,11 +2,11 @@
 I have built the React-Typescript Set Up using npx create-react-app --template typescript. This will also provide support for writing Unit Tests.
 
 # To RUN the Solution
-1. Download code.\
-2. In console go to root folder.\
-3. Run 'npm install'.\
+1. Download code.
+2. In console go to root folder.
+3. Run 'npm install'.
 4. Solution is in build folder.
-5. To create new solution.\
+5. To create new solution.
 a. From root folder run following commands one after the another: 'npm run build', 'install -g serve', 'serve -s build'.
 
 # Solution Implementation
