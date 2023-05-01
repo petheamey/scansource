@@ -8,8 +8,8 @@ Set up EventListeners for button click for both old and React Components.\
 On click of the buttons we dispatch an event, which is then caught by event listener.\
 The call back function changes the UI.
 
-    For ex: If Button One is clicked in old Component the text in New Component changes to 'One'.\
-    For ex: If Button on New Component is clicked then text in old Component changes to Modern Component'.\
+    For ex: If Button One is clicked in old Component the text in New Component changes to 'One'.
+    For ex: If Button on New Component is clicked then text in old Component changes to Modern Component'.
 
 ## My Own Component
 I have implemented a Stop Watch with following features, using a function based React Component.\
