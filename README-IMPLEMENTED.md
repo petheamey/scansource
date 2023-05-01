@@ -13,7 +13,7 @@ The call back function changes the UI.
 
 ## My Own Component
 I have implemented a Stop Watch with following features, using a function based React Component.\
-    Start & Stop button.
+    Start & Stop button.\
     Reset button.
 
 I have also implemented tests using Jest and Testing Library.
