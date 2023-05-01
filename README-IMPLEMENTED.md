@@ -1,6 +1,14 @@
 # Installation
 I have built the React-Typescript Set Up using npx create-react-app --template typescript. This will also provide support for writing Unit Tests.
 
+# To RUN the Solution
+1. Download code.\
+2. In console go to root folder.\
+3. Run 'npm install'.\
+4. Solution is in build folder.
+5. To create new solution.\
+a. From root folder run following commands one after the another: 'npm run build', 'install -g serve', 'serve -s build'.
+
 # Solution Implementation
 ## Bidirectional Communication using OOP
 Using browser store accessed as the localStorage property of Window, as the store to save state which is accessible to both the old component and the React Component.\
